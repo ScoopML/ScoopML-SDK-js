@@ -1,1 +1,16 @@
-
+{
+  "name": "ScoopML.js",
+  "version": "1.0.0",
+  "description": "\"Javascript SDK for ScoopML\"",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "ScoopML",
+  "license": "ISC"
+}
