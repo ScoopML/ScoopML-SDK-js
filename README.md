@@ -1,2 +1,2 @@
 # ScoopML-SDK-js
-A simple sdk for developers to integrate ScoopML into apps built using javascripts
+A simple sdk for developers to integrate ScoopML into apps built using javascript
