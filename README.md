@@ -10,6 +10,8 @@ npm install ScoopML
 # Usage
 ```Usage
 const ScoopML = require('ScoopML')
+data.payload = "Text to classify"
+options.hostname = "Url"
 
 
 ```
