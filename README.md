@@ -1,5 +1,7 @@
 # ScoopML-SDK-js
-A simple sdk for developers to integrate ScoopML into apps built using javascript
+A sdk for developers to integrate ScoopML into apps built using javascript
+
+developers need to get unique URL from dashboard 
 
 
 
